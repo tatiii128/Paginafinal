@@ -1,0 +1,23 @@
+h1 {color: rgb(106, 152, 140); text-align: center;}
+
+body{background-color: rgb(173, 207, 172);font-family:  Arial,  sans-serif;} /* Familia de fuentes */
+img{
+    width: 300px; /* Cambia el ancho de la imagen */
+    height: auto; /* Mantiene la proporción de la imagen */
+    display: block; /* Hace que la imagen sea un elemento de bloque */
+    margin: 0 auto; /* Centra la imagen horizontalmente */
+}
+cuadro-boton {
+    background-color: #001f3f; /* azul oscuro */
+    padding: 20px;
+    display: inline-block;
+    border-radius: 10px; /* opcional: bordes redondeados */
+}
+.boton {
+    color: rgb(255, 255, 255);
+    text-decoration: rgb(103, 148, 103);
+    background-color: #5f9479;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+}
