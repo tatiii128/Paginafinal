@@ -1,0 +1,28 @@
+# Paginafinal
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Dr. Stone</title>
+</head>
+<body>   
+    <h1>Dr. Stone</h1>
+    <p>Es una serie de manga escrita por Riichiro Inagaki e ilustrada por Boichi. Tambien tiene su propio anime que sigue en emsion</p>
+    <h1></h1>
+    <p>
+         La historia cuenta las aventuras de Senku y Taiju, dos adolescentes que se ven atrapados en un mundo post-apocalíptico en el que la raza humana se ha convertido en piedra y ellos buscan la manera de revertir la petrificación en la mayor cantidad de personas posibles, para así reconstruir la sociedad tal como la conocieron..
+    </p>
+    <p>
+        Actualmente su anime tiene 4 temporadas, su manga tiene 27 tomos
+    </p>
+    <p> Su manga fue publicado por primera vez el 6 de marzo de 2017</p>
+    
+
+    <img src="https://m.media-amazon.com/images/I/81AlCTdidUL._AC_UF894,1000_QL80_.jpg" alt="image1">
+    <div class="cuadro-boton">
+    <a href="pagina2.html" class="boton">Ver Personajes</a>
+</div>
+</body>
+</html>
